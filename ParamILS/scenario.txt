@@ -1,0 +1,12 @@
+algo = wrapper.rb
+execdir = .
+deterministic = 0
+run_obj = runlength
+overall_obj = mean
+cutoff_time = max
+cutoff_length = max
+tunerTimeout = 604800
+paramfile = params.txt
+outdir = paramils-out
+instance_file = instances.txt
+test_instance_file = instances.txt
